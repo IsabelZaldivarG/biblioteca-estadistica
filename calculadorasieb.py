@@ -1,4 +1,4 @@
-ef media(datos):
+def media(datos):
   suma = 0
   for x in datos:
     suma = suma + x
